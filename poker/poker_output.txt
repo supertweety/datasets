@@ -1,0 +1,360 @@
+Iteration: 1, time from start: 0
+Best score so far: 740.0
+---------------------
+Level 0.6666666666666666
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.3333333333333333
+Call(x)
+
+
+
+Iteration: 2, time from start: 35070
+Best score so far: 861.0
+---------------------
+Level 0.75
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.5
+!You_have_three_of_a_kind(x), Raise(x)
+---------------------
+Level 0.25
+Call(x)
+
+
+
+Iteration: 3, time from start: 123457
+greedy working!
+greedy working!
+Best score so far: 1017.0
+---------------------
+Level 0.75
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.5
+!You_have_a_flush(x), Raise(x)
+!You_have_three_of_a_kind(x), Raise(x)
+---------------------
+Level 0.25
+Call(x)
+
+
+
+Iteration: 4, time from start: 332205
+Best score so far: 1028.0
+---------------------
+Level 0.8
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.6
+!The_river_card_has_just_been_dealt(x), !The_opponent_checked_the_flop(x), !The_opponent_check-raised_on_the_turn(x), !The_opponent_raised_on_the_river(x), Call(x)
+---------------------
+Level 0.4
+!You_have_a_flush(x), Raise(x)
+!You_have_three_of_a_kind(x), Raise(x)
+---------------------
+Level 0.2
+Call(x)
+
+
+
+Iteration: 5, time from start: 516291
+Best score so far: 1039.0
+---------------------
+Level 0.8
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.6
+!The_river_card_has_just_been_dealt(x), !The_opponent_checked_the_flop(x), !The_opponent_check-raised_on_the_turn(x), !The_opponent_raised_on_the_river(x), Call(x)
+---------------------
+Level 0.4
+!You_have_a_flush(x), Raise(x)
+!You_have_three_of_a_kind(x), Raise(x)
+---------------------
+Level 0.2
+Call(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_2-3_suited(x), Raise(x)
+
+
+
+Iteration: 6, time from start: 793892
+greedy working!
+Best score so far: 1106.0
+---------------------
+Level 0.8
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.6
+!The_river_card_has_just_been_dealt(x), !The_opponent_checked_the_flop(x), !The_opponent_check-raised_on_the_turn(x), !The_opponent_raised_on_the_river(x), Call(x)
+---------------------
+Level 0.4
+!You_have_a_flush(x), Raise(x)
+!You_have_a_full_house(x), Raise(x)
+!You_have_three_of_a_kind(x), Raise(x)
+---------------------
+Level 0.2
+Call(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_2-3_suited(x), Raise(x)
+
+
+
+Iteration: 7, time from start: 1050446
+Best score so far: 1113.0
+---------------------
+Level 0.8
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.6
+!The_river_card_has_just_been_dealt(x), !The_opponent_checked_the_flop(x), !The_opponent_check-raised_on_the_turn(x), !The_opponent_raised_on_the_river(x), Call(x)
+---------------------
+Level 0.4
+!You_have_a_flush(x), Raise(x)
+!You_have_a_full_house(x), Raise(x)
+!You_have_three_of_a_kind(x), Raise(x)
+---------------------
+Level 0.2
+Call(x)
+!The_flop_cards_have_just_been_dealt(x), !You_have_a_straight_draw_and_a_flush_draw(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_2-3_suited(x), Raise(x)
+
+
+
+Iteration: 8, time from start: 1325305
+Best score so far: 1119.0
+---------------------
+Level 0.8
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.6
+!The_river_card_has_just_been_dealt(x), !You_have_three_of_a_kind(x), !There_are_three_hearts_on_the_board(x), !The_opponent_raised_on_the_river(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !The_opponent_checked_the_flop(x), !The_opponent_check-raised_on_the_turn(x), !The_opponent_raised_on_the_river(x), Call(x)
+---------------------
+Level 0.4
+!You_have_a_flush(x), Raise(x)
+!You_have_a_full_house(x), Raise(x)
+!You_have_three_of_a_kind(x), Raise(x)
+---------------------
+Level 0.2
+Call(x)
+!The_flop_cards_have_just_been_dealt(x), !You_have_a_straight_draw_and_a_flush_draw(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_2-3_suited(x), Raise(x)
+
+
+
+Iteration: 9, time from start: 1606382
+Best score so far: 1123.0
+---------------------
+Level 0.8
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.6
+!The_river_card_has_just_been_dealt(x), !You_have_three_of_a_kind(x), !There_are_three_hearts_on_the_board(x), !The_opponent_raised_on_the_river(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !The_opponent_checked_the_flop(x), !The_opponent_check-raised_on_the_turn(x), !The_opponent_raised_on_the_river(x), Call(x)
+---------------------
+Level 0.4
+!You_have_a_flush(x), Raise(x)
+!You_have_a_full_house(x), Raise(x)
+!You_have_three_of_a_kind(x), Raise(x)
+---------------------
+Level 0.2
+Call(x)
+!The_flop_cards_have_just_been_dealt(x), !You_have_a_straight_draw_and_a_flush_draw(x)
+!The_opponent_made_a_huge_raise(x), Raise(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_2-3_suited(x), Raise(x)
+
+
+
+Iteration: 10, time from start: 1924138
+greedy working!
+Best score so far: 1143.0
+---------------------
+Level 0.8
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.6
+!The_river_card_has_just_been_dealt(x), !You_have_three_of_a_kind(x), !There_are_three_hearts_on_the_board(x), !The_opponent_raised_on_the_river(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !There_are_two_pair_on_the_board(x), !The_opponent_checked_the_flop(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !The_opponent_checked_the_flop(x), !The_opponent_check-raised_on_the_turn(x), !The_opponent_raised_on_the_river(x), Call(x)
+---------------------
+Level 0.4
+!You_have_a_flush(x), Raise(x)
+!You_have_a_full_house(x), Raise(x)
+!You_have_three_of_a_kind(x), Raise(x)
+---------------------
+Level 0.2
+Call(x)
+!The_flop_cards_have_just_been_dealt(x), !You_have_a_straight_draw_and_a_flush_draw(x)
+!The_opponent_made_a_huge_raise(x), Raise(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_2-3_suited(x), Raise(x)
+
+
+
+Iteration: 11, time from start: 2229541
+Best score so far: 1157.0
+---------------------
+Level 0.8
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.6
+!The_river_card_has_just_been_dealt(x), !You_have_three_of_a_kind(x), !There_are_three_hearts_on_the_board(x), !The_opponent_raised_on_the_river(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !There_are_two_pair_on_the_board(x), !The_opponent_checked_the_flop(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !The_opponent_checked_the_flop(x), !The_opponent_check-raised_on_the_turn(x), !The_opponent_raised_on_the_river(x), Call(x)
+---------------------
+Level 0.4
+!You_have_a_flush(x), Raise(x)
+!You_have_a_full_house(x), Raise(x)
+!You_have_three_of_a_kind(x), Raise(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_two_3s(x), !The_opponent_made_a_3-bet(x), Fold(x)
+---------------------
+Level 0.2
+Call(x)
+!The_flop_cards_have_just_been_dealt(x), !You_have_a_straight_draw_and_a_flush_draw(x)
+!The_opponent_made_a_huge_raise(x), Raise(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_2-3_suited(x), Raise(x)
+
+
+
+Iteration: 12, time from start: 2613720
+Best score so far: 1167.0
+---------------------
+Level 0.8
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.6
+!The_river_card_has_just_been_dealt(x), !You_have_three_of_a_kind(x), !There_are_three_hearts_on_the_board(x), !The_opponent_raised_on_the_river(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !There_are_two_pair_on_the_board(x), !The_opponent_checked_the_flop(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !The_opponent_checked_the_flop(x), !The_opponent_check-raised_on_the_turn(x), !The_opponent_raised_on_the_river(x), Call(x)
+---------------------
+Level 0.4
+!You_have_a_flush(x), Raise(x)
+!You_have_a_full_house(x), Raise(x)
+!The_opponent_raised(x), !The_opponent_has_been_playing_very_aggressive_all_evening(x), Raise(x)
+!You_have_three_of_a_kind(x), Raise(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_two_3s(x), !The_opponent_made_a_3-bet(x), Fold(x)
+---------------------
+Level 0.2
+Call(x)
+!The_flop_cards_have_just_been_dealt(x), !You_have_a_straight_draw_and_a_flush_draw(x)
+!The_opponent_made_a_huge_raise(x), Raise(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_2-3_suited(x), Raise(x)
+
+
+
+Iteration: 13, time from start: 2947925
+greedy working!
+Best score so far: 1179.0
+---------------------
+Level 0.8
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.6
+!The_river_card_has_just_been_dealt(x), !You_have_three_of_a_kind(x), !There_are_three_hearts_on_the_board(x), !The_opponent_raised_on_the_river(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !There_are_two_pair_on_the_board(x), !The_opponent_checked_the_flop(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !The_opponent_checked_the_flop(x), !The_opponent_check-raised_on_the_turn(x), !The_opponent_raised_on_the_river(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !You_have_three_of_a_kind(x), !The_opponent_just_called_your_bet_on_the_turn(x), Call(x)
+---------------------
+Level 0.4
+!You_have_a_flush(x), Raise(x)
+!You_have_a_full_house(x), Raise(x)
+!The_opponent_raised(x), !The_opponent_has_been_playing_very_aggressive_all_evening(x), Raise(x)
+!You_have_three_of_a_kind(x), Raise(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_two_3s(x), !The_opponent_made_a_3-bet(x), Fold(x)
+---------------------
+Level 0.2
+Call(x)
+!The_flop_cards_have_just_been_dealt(x), !You_have_a_straight_draw_and_a_flush_draw(x)
+!The_opponent_made_a_huge_raise(x), Raise(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_2-3_suited(x), Raise(x)
+
+
+
+Iteration: 14, time from start: 10298235
+Best score so far: 1186.0
+---------------------
+Level 0.8
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.6
+!There_are_no_straight_or_flush_possibilities_on_the_board(x), !The_opponent_check-raised_on_the_flop(x), !The_opponent_checked_on_the_river(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !You_have_three_of_a_kind(x), !There_are_three_hearts_on_the_board(x), !The_opponent_raised_on_the_river(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !There_are_two_pair_on_the_board(x), !The_opponent_checked_the_flop(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !The_opponent_checked_the_flop(x), !The_opponent_check-raised_on_the_turn(x), !The_opponent_raised_on_the_river(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !You_have_three_of_a_kind(x), !The_opponent_just_called_your_bet_on_the_turn(x), Call(x)
+---------------------
+Level 0.4
+!You_have_a_flush(x), Raise(x)
+!You_have_a_full_house(x), Raise(x)
+!The_opponent_raised(x), !The_opponent_has_been_playing_very_aggressive_all_evening(x), Raise(x)
+!You_have_three_of_a_kind(x), Raise(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_two_3s(x), !The_opponent_made_a_3-bet(x), Fold(x)
+---------------------
+Level 0.2
+Call(x)
+!The_flop_cards_have_just_been_dealt(x), !You_have_a_straight_draw_and_a_flush_draw(x)
+!The_opponent_made_a_huge_raise(x), Raise(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_2-3_suited(x), Raise(x)
+
+
+
+Iteration: 15, time from start: 29332059
+---------------------
+Level 0.8
+!Fold(x), !Raise(x)
+!Call(x), !Fold(x)
+!Call(x), !Raise(x)
+---------------------
+Level 0.6
+!There_are_no_straight_or_flush_possibilities_on_the_board(x), !The_opponent_check-raised_on_the_flop(x), !The_opponent_checked_on_the_river(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !You_have_three_of_a_kind(x), !There_are_three_hearts_on_the_board(x), !The_opponent_raised_on_the_river(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !There_are_two_pair_on_the_board(x), !The_opponent_checked_the_flop(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !The_opponent_checked_the_flop(x), !The_opponent_check-raised_on_the_turn(x), !The_opponent_raised_on_the_river(x), Call(x)
+!The_river_card_has_just_been_dealt(x), !You_have_three_of_a_kind(x), !The_opponent_just_called_your_bet_on_the_turn(x), Call(x)
+---------------------
+Level 0.4
+!You_have_a_flush(x), Raise(x)
+!You_have_a_full_house(x), Raise(x)
+!The_opponent_raised(x), !The_opponent_has_been_playing_very_aggressive_all_evening(x), Raise(x)
+!You_have_three_of_a_kind(x), Raise(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_two_3s(x), !The_opponent_made_a_3-bet(x), Fold(x)
+---------------------
+Level 0.2
+Call(x)
+!The_flop_cards_have_just_been_dealt(x), !You_have_a_straight_draw_and_a_flush_draw(x)
+!The_opponent_made_a_huge_raise(x), Raise(x)
+!There_are_no_cards_yet_on_the_board(x), !You_have_2-3_suited(x), Raise(x)
+
+Covered positive: 2134.0
+Covered negative: 1385.0
+Accuracy: 0.5710626185958254
+lc = [0.5192599620493359, 0.5352941176470588, 0.5645161290322581, 0.5631878557874763, 0.5622390891840607, 0.5741935483870968, 0.5733396584440228, 0.5721062618595826, 0.5729601518026566, 0.5714421252371916, 0.5718216318785578, 0.5716318785578748, 0.5717267552182164, 0.5710626185958254]
+train_lc = [0.570168784373222, 0.5816423288450597, 0.5964346671723877, 0.5974777166698274, 0.5985207661672672, 0.6048738858334913, 0.6055376446045894, 0.6061065806941021, 0.6064858714204437, 0.6083823250521525, 0.6097098425943486, 0.610658069410203, 0.6117959415892281, 0.6124597003603262]
+stats: [[2249.0, 1509.0, 1896.0, 1693.0], [2328.0, 1467.0, 1999.0, 1627.0], [2446.0, 1429.0, 2187.0, 1507.0], [2452.0, 1424.0, 2180.0, 1514.0], [2428.0, 1389.0, 2149.0, 1493.0], [2479.0, 1373.0, 2235.0, 1453.0], [2458.0, 1345.0, 2209.0, 1436.0], [2464.0, 1345.0, 2205.0, 1445.0], [2401.0, 1278.0, 2149.0, 1380.0], [2414.0, 1271.0, 2140.0, 1387.0], [2422.0, 1265.0, 2140.0, 1383.0], [2431.0, 1264.0, 2145.0, 1390.0], [2434.0, 1255.0, 2139.0, 1383.0], [2436.0, 1250.0, 2134.0, 1385.0]]
+Finished in 37361829ms
